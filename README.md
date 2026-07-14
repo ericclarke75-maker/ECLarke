@@ -10,7 +10,7 @@ I am a first year college student about to get my associates degree in cyber sec
 
 Motivated Cybersecurity student eager to launch a career in tech by securing entry-level opportunities while pursuing further education and tackling real-world challenges.
 
-##Projects
+## Projects
 
 
 
