@@ -1,7 +1,7 @@
 # Hello I'm Eric
 https://www.linkedin.com/in/eric-clarke-429083386/ 
 
-[Introduction]
+## Introduction 
 
 I am a first year college student about to get my associates degree in cyber security and will be moving forward for a bachelors degree, I also have a profound interest in tech and open to learning and solving complex problems.
 
